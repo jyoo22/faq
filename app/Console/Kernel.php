@@ -15,7 +15,6 @@ class Kernel extends ConsoleKernel
     protected $commands = [
         //
     ];
-
     /**
      * Define the application's command schedule.
      *
@@ -27,7 +26,6 @@ class Kernel extends ConsoleKernel
         // $schedule->command('inspire')
         //          ->hourly();
     }
-
     /**
      * Register the commands for the application.
      *
